@@ -1,4 +1,6 @@
 schedule_data.json
+github_token.txt
+upload to GitHub.py
 build/
 dist/
 *.spec
