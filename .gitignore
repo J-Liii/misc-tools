@@ -1,0 +1,7 @@
+schedule.exe
+schedule_data.json
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
